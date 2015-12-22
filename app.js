@@ -15,3 +15,4 @@ db.init(function (error) {
     }
    
 });
+console.log("hi silvester")
